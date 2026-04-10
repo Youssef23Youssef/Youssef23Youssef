@@ -46,8 +46,10 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
 |August 2025 | GTE launchpad | code4rena | 1 High |
 
-## Radcipher Arena
+## Radcipher Contest
 | Date                | Placement                                                                                 | Findings | 
 |:-------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|[Week 10](https://x.com/radcipher/status/2042522542728962523)  | 🥉3rd | 1 Critical 1 High 1 Medium |
 |[Week 9](https://x.com/radcipher/status/2039971267906789742)  | 🥈2nd | 1 Critical 3 High 1 Low |
+|[Week 8](https://x.com/radcipher/status/2037472829671649444)  | 6th | 1 Critical 1 High 2 Low |
 
