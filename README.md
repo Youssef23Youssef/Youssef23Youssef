@@ -7,7 +7,7 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 ## Public Contests
 | Date             | Contest                       | Placement                                                 | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|[4-13-2026](https://x.com/radcipher/status/2039971267906789742)  | Payments Revenue Sharing | 🥈2nd | Radcipher | 1 High 3 Medium
+|[4-13-2026](https://x.com/radcipher/status/2045105457811877993)  | Payments Revenue Sharing | 🥈2nd | Radcipher | 1 High 3 Medium
 |[3-30-2026](https://x.com/radcipher/status/2039971267906789742) | Crowdfunding with Batched Refunds | 🥈2nd | Radcipher | 1 Critical 3 High 1 Low
 |[4-6-2026](https://x.com/radcipher/status/2042522542728962523)  | Signature-Verification Voucher System | 🥉3rd | Radcipher | 1 Critical 1 High 1 Medium
 |[3-27-2026](https://x.com/radcipher/status/2037472829671649444)  | Token Streaming & Vesting | 6th | Radcipher | 1 Critical 1 High 2 Low
