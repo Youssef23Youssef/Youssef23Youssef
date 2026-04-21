@@ -1,5 +1,5 @@
 # Who am I ?
-I’m Joe, a computer science student with a strong background in Math and reverse engineering. I’ve been involved in Solidity contests and CTFs, with a growing focus on zero-knowledge (ZK) systems and advanced cryptography concepts.
+I’m Youssef, a computer science student with a strong background in Math and reverse engineering. I’ve been involved in Solidity contests and CTFs, with a growing focus on zero-knowledge (ZK) systems and advanced cryptography concepts.
 
 Documenting my journy on [X](https://x.com/Youssef23__)
 
