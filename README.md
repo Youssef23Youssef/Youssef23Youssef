@@ -37,7 +37,7 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 ## My Playground
 
-[Commit-Reveal CLI tool implemented in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
+[Commit-Reveal CLI tool in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
 
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
