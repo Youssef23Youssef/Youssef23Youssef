@@ -44,7 +44,9 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 [damn-vulnerable-defi CTF](https://github.com/joe23joe/damn-vulnerable-defi)
 
-## ZK blogs
+## blogs & Talks
+[Hosted a podcast with Marco from Zksecurity](https://x.com/Youssef23__/status/2053331866489324022)
+
 [How Gnark handle Overflow/Underflow](https://medium.com/@joe23joe/how-gnark-handle-overflow-underflow-a5a0861a22fe)
 
 [What are groups in abstract algebra](https://medium.com/@joe23joe/groups-in-abstract-algebra-a6c8ff86015f)
