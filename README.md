@@ -54,7 +54,3 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 [How Gnark handle Overflow/Underflow](https://medium.com/@joe23joe/how-gnark-handle-overflow-underflow-a5a0861a22fe)
 
-[What are groups in abstract algebra](https://medium.com/@joe23joe/groups-in-abstract-algebra-a6c8ff86015f)
-
-[What are Elliptic curves](https://medium.com/@joe23joe/what-is-an-elliptic-curve-97906a6a5d83)
-
