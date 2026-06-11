@@ -7,6 +7,7 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 ## Open Source
 | Date             | Company                       | Project                                                                                           | Finding | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+| 6-11-2026  | [Ethereum Foundation](https://x.com/ethereum) | [LeanVM](https://github.com/leanEthereum/leanVM) -- ZKVM to aggregate and verify post quantum signatures  | [1 Medium](https://github.com/leanEthereum/leanVM/commit/e53836aefa9e233af57c54fef6c1ed8db8dcb3dd)
 | 5-28-2026  | [Ethereum Foundation](https://x.com/ethereum) | [LeanVM](https://github.com/leanEthereum/leanVM) -- ZKVM to aggregate and verify post quantum signatures | [1 High](https://github.com/leanEthereum/leanVM/commit/db21d7bdda7f6497070824b76b95d478bab38724)
 
 ## Public Contests
