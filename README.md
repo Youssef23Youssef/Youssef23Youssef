@@ -45,6 +45,8 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 [Commit-Reveal CLI tool in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
 
+[FRI Math](https://github.com/Youssef23Youssef/FRI-Math)
+
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
 
