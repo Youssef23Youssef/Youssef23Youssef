@@ -23,13 +23,10 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 ## Circom paper work
 [Created Circom Security Checklist for Zippel Labs](https://github.com/ZippelLabs/Circom-Security)
 
-[Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
-
 [Solutions for all RareSkills circom puzzles](https://github.com/joe23joe/Circom-Puzzles-RareSkills)
 
-[Implementation for Sudoku in Circom](https://github.com/joe23joe/Circom-Puzzles-RareSkills/blob/main/Sudoku/Sudoku.circom)
+[Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
 
-[Rate-Limiting-Nullifier shadow audit](https://github.com/joe23joe/Shadow-audits/blob/main/Rate-Limiting-Nullifier-Circuits/Report.pdf)
 
 ## Cryptography & ZK paper work
 
