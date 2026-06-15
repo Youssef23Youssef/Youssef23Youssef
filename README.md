@@ -1,5 +1,5 @@
 # Who am I ?
-I'm Youssef, Blockchain & Cryptography Security Researcher and soon to be Computer Science graduate, specializing in ZK systems and blockchain infrastructure auditing. I've uncovered Critical and High vulnerabilities across Solidity contests on Radcipher and Code4rena, and contributed open-source security research to the Ethereum Foundation's LeanVM (post-quantum ZKVM). My work spans the full ZK stack, from high level circuit design to low level proof systems.
+I’m Youssef, a computer science student with a strong background in Math and reverse engineering. I’ve been involved in Solidity contests and CTFs, with a growing focus on zero-knowledge (ZK) systems and advanced cryptography concepts.
 
 Documenting my journy on [X](https://x.com/Youssef23__)
 
