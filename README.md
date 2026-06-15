@@ -1,5 +1,5 @@
 # Who am I ?
-I’m Youssef, a computer science student with a strong background in Math and reverse engineering. I’ve been involved in Solidity contests and CTFs, with a growing focus on zero-knowledge (ZK) systems and advanced cryptography concepts.
+I'm Youssef, Computer Science student with a strong math and reverse engineering background who fell down the ZK rabbit hole. I spend most of my time breaking zero-knowledge systems and digging into blockchain infrastructure most  recently contributing security research to the Ethereum Foundation's LeanVM, a ZKVM for Ethereum's post-quantum future.
 
 Documenting my journy on [X](https://x.com/Youssef23__)
 
