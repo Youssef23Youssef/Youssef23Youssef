@@ -50,5 +50,5 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 ## blogs & Talks
 [Hosted a podcast with Marco from Zksecurity](https://x.com/Youssef23__/status/2053331866489324022)
 
-[How Gnark handle Overflow/Underflow](https://medium.com/@joe23joe/how-gnark-handle-overflow-underflow-a5a0861a22fe)
+[Poseidon Hash: From Research Papers to Simple Understanding](https://youssef23.notion.site/Poseidon-Hash-From-Research-Papers-to-Simple-Understanding-377058a005af80fea411c2e5ba9d7d2c)
 
