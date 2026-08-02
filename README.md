@@ -41,6 +41,7 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 
 ## Cryptography & ZK paper work
+[Full implementation of Goldwasser-Kalai-Rothblum (GKR) protocol](https://github.com/Youssef23Youssef/GKR)
 
 [Solutions for ZKsecurity SumCheck exercises](https://github.com/joe23joe/SumCheck-SageMath)
 
