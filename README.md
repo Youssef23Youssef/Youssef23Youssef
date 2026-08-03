@@ -31,15 +31,6 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 |[3-27-2026](https://x.com/radcipher/status/2037472829671649444)  | Token Streaming & Vesting | 6th | Radcipher | 1 Critical 1 High 2 Low
 |[8-28-2025](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | GTE launchpad | _ | Code4rena | 1 High
 
-
-## Circom paper work
-[Created Circom Security Checklist for Zippel Labs](https://github.com/ZippelLabs/Circom-Security)
-
-[Solutions for all RareSkills circom puzzles](https://github.com/joe23joe/Circom-Puzzles-RareSkills)
-
-[Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
-
-
 ## Cryptography & ZK paper work
 [Full implementation of Goldwasser-Kalai-Rothblum (GKR) protocol](https://github.com/Youssef23Youssef/GKR)
 
@@ -50,6 +41,13 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 [Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
 
 [Solutions for CryptoHack Diffie-Hellman challenges](https://github.com/joe23joe/Diffie-Hellman)
+
+## Circom paper work
+[Created Circom Security Checklist for Zippel Labs](https://github.com/ZippelLabs/Circom-Security)
+
+[Solutions for all RareSkills circom puzzles](https://github.com/joe23joe/Circom-Puzzles-RareSkills)
+
+[Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
 
 ## My Playground
 
