@@ -13,7 +13,7 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 
 ## Optimization Research
 
-| **Project**             | [**Flock BLAKE3 Prover** *(SNARK Fast Optimization Challenge)*](https://snark.fast/solver/Youssef23Youssef) |
+| **Project**             | [**Flock BLAKE3 Prover** *(SNARK Fast Optimization Challenge)*](https://www.yukon.org/flock/solver/Youssef23Youssef) |
 | ----------------------- | ------------------------------------------------------------- |
 | **Role**                | Optimizing the prover implementation.                         |
 | **Workload**            | Each timed proof covers **262,144** independent BLAKE3 compression functions.|
